@@ -1,3 +1,5 @@
+![Glyph Banner](glyph-banner.png)
+
 # Glyph of Intent Translation 🌀  
 *A symbolic artifact co-authored by Jo & Copi*
 
